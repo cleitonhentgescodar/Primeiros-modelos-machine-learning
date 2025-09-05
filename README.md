@@ -52,7 +52,11 @@ scikit-learn
 #📊 O que foi introduzido;
 
 ✅ Regressão Linear (simples e múltipla)
+
 ✅ Testes Estatísticos (Teste T)
+
 ✅ Aprendizado Bayesiano
+
 ✅ Árvores de Decisão (teoria e prática)
+
 ✅ Análise exploratória de dados com visualizações
