@@ -2,11 +2,11 @@
 
 Este repositório reúne notebooks desenvolvidos durante as aulas de Estatística Aplicada e Machine Learning, abordando desde conceitos fundamentais até implementações práticas de modelos preditivos em Python.
 
-#📌 Objetivo
+📌 Objetivo
 
 Proporcionar aprendizado prático sobre técnicas estatísticas e algoritmos de aprendizado de máquina, com aplicações reais e exercícios guiados.
 
-#📂 Estrutura do Repositório
+📂 Estrutura do Repositório
 
 1️⃣ Regressão Linear
 
@@ -33,7 +33,7 @@ Proporcionar aprendizado prático sobre técnicas estatísticas e algoritmos de 
 
 6_Introdução_Árvore_de_Decisão.ipynb → Introdução às Árvores de Decisão e implementação básica.
 
-#🛠 Tecnologias Utilizadas
+🛠 Tecnologias Utilizadas
 
 Python 3
 
