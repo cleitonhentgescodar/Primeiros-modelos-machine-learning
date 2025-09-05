@@ -1,11 +1,15 @@
-Primeiros modelos de machine learning
+## Primeiros modelos de machine learning
+
 Este repositório reúne notebooks desenvolvidos durante as aulas de Estatística Aplicada e Machine Learning, abordando desde conceitos fundamentais até implementações práticas de modelos preditivos em Python.
 
-📌 Objetivo
+#📌 Objetivo
+
 Proporcionar aprendizado prático sobre técnicas estatísticas e algoritmos de aprendizado de máquina, com aplicações reais e exercícios guiados.
 
-📂 Estrutura do Repositório
+#📂 Estrutura do Repositório
+
 1️⃣ Regressão Linear
+
 1_Regressão_Linear,_simples_e_múltipla_.ipynb → Conceitos e prática de regressão linear simples e múltipla.
 
 
@@ -13,6 +17,7 @@ Proporcionar aprendizado prático sobre técnicas estatísticas e algoritmos de 
 
 
 2️⃣ Estatística Aplicada
+
 3_Estatística_Aplicada (1).ipynb → Aplicação do Teste T.
 
 
@@ -20,13 +25,15 @@ Proporcionar aprendizado prático sobre técnicas estatísticas e algoritmos de 
 
 
 3️⃣ Aprendizado Bayesiano
+
 5_Aprendizagem_Baysiana (1).ipynb → Conceito e aplicação do método Bayesiano em classificação.
 
 
 4️⃣ Árvores de Decisão
+
 6_Introdução_Árvore_de_Decisão.ipynb → Introdução às Árvores de Decisão e implementação básica.
 
-🛠 Tecnologias Utilizadas
+#🛠 Tecnologias Utilizadas
 
 Python 3
 
@@ -42,7 +49,7 @@ seaborn
 
 scikit-learn
 
-📊 O que foi introduzido;
+#📊 O que foi introduzido;
 
 ✅ Regressão Linear (simples e múltipla)
 ✅ Testes Estatísticos (Teste T)
